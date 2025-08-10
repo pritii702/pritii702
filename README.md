@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" alt="Microsoft Word" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013_logo.svg" alt="Microsoft Word" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Microsoft Excel" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" alt="Microsoft PowerPoint" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
 </p>
