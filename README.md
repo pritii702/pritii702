@@ -38,8 +38,7 @@
 ## 🌐 Connect with me
 <p>
   <a href="https://github.com/pritii702"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pritisarki/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://linkedin.com/in/pritisarki"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </a>
 </a>
   
