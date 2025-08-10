@@ -26,11 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" height="40" style="border: 2px solid #000000; border-radius: 8px; padding: 4px;"/>
-  <div style="display: flex; gap: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2019_icon.svg" alt="Word" width="40" height="40" style="border: 2px solid #0078D4; border-radius: 8px; padding: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2019_icon.svg" alt="Excel" width="40" height="40" style="border: 2px solid #107C41; border-radius: 8px; padding: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_PowerPoint_2019_icon.svg" alt="PowerPoint" width="40" height="40" style="border: 2px solid #D24726; border-radius: 8px; padding: 5px;">
-</div>
+  
 </p>
 
 ---
