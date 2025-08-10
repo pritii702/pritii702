@@ -1,28 +1,37 @@
 <!-- Profile Banner / Intro -->
-<h1 align="center">Hi there, I am <a href="#">PRITI SARKI</a> 👨‍💻</h1>
-<p align="center">
-
-</p>
+<h1>Hi there, I am <a href="#">PRITI SARKI</a> 👨‍💻</h1>
 
 ---
 
 ## 💻 My Skills
 
-### Languages
+### Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+### Web Development
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+</p>
+
+### Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ### Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" alt="Microsoft Word" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Microsoft Excel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" alt="Microsoft PowerPoint" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
-
 ---
 
 
@@ -35,7 +44,3 @@
 
 ---
 
-<!-- Side Illustration -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding-illustration.png" alt="Coding From Home" width="300"/>
-</p>
